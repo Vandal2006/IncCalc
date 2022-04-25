@@ -1,0 +1,18 @@
+body {background-color: cornflowerblue; width: 600px; margin: auto;
+    font-family: Arial, Helvetica, sans-serif;}
+
+h1 { text-align: center;  
+    margin: 6px;padding: 6px;}
+
+h2 {text-align: center;
+    margin: 6px;padding: 6px;}
+
+p {text-align: left ; 
+    margin: 30px;padding: 6px; font-size: .5cm;}
+
+label {font-size: larger;}
+
+div {text-align: left;
+    margin: 6px;padding: 6px;}
+
+h4 {text-align: left; font-size: 1cm; }
